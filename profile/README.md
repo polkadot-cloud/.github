@@ -1,3 +1,4 @@
+<h2 align="center">Polkadot Cloud</h2>
 <h3 align="center">Develop Polkadot dApps with battle-tested, plug & play assets and components.</h3>
 <div align="center">
   <a href="https://polkadot.cloud/" align="center">Documentation</a>&nbsp;&nbsp;&nbsp;&nbsp;

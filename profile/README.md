@@ -1,5 +1,5 @@
 <h2 align="center">Polkadot Cloud</h2>
-<h3 align="center">Develop Polkadot dapps with battle-tested, plug & play assets and components.</h3>
+<h3 align="center">Polkadot development with battle-tested, plug & play assets and components.</h3>
 <div align="center">
   <a href="https://polkadot.cloud/" align="center">Website</a>&nbsp;&nbsp; | &nbsp;&nbsp;
   <a href="https://github.com/polkadot-cloud/library" align="center">Library</a>&nbsp;&nbsp;&nbsp;&nbsp;

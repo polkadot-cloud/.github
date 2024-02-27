@@ -1,4 +1,4 @@
-## 👷‍♀️ This Repository is Undergoing Updates
+## 👷‍♀️ This Organization is Undergoing Updates
 
 Dear users,
 
